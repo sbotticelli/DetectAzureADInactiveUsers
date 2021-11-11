@@ -37,6 +37,7 @@ The challenge of this method is to define what for a while means in the case of 
     
     - AuditLogs.Read.All
     - Organization.Read.All
+    - User.Read.All
 
   - [Upload](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app#add-a-certificate) the above **Certificate** to the **App Registration** in Azure 
   
