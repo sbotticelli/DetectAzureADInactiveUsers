@@ -177,4 +177,12 @@ For ($i=0; $i -lt $colors.Length; $i++) {
 ```
 <br/>
 <br/>
+
+#### What does a blank property value in the report mean?
+To generate a lastSignInDateTime timestamp, you need a successful sign-in. Because the lastSignInDateTime property is a new feature, the value of the lastSignInDateTime property can be blank if:
+- The last successful sign-in of a user took place before April 2020.
+- The affected user account was never used for a successful sign-in.
+
+<br/>
+<br/>
 <br/>
