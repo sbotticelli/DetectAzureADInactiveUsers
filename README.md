@@ -1,0 +1,2 @@
+# DetectAzureADInactiveUsers
+DetectAzureADInactiveUsers
