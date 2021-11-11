@@ -29,6 +29,8 @@ The challenge of this method is to define what for a while means in the case of 
 <br/>
 
 ### Prerequisites:
+- To access this property, you need an Azure Active Directory Premium edition
+
 - Create a Certificate (with [*New-SelfSignedCertificate.ps1*](https://github.com/sbotticelli/DetectAzureADInactiveUsers/blob/main/New-SelfSignedCertificate.ps1) script you can generate a Self-Signed Certificate)
 
 - [Create](https://docs.microsoft.com/en-us/azure/active-directory/develop/quickstart-register-app#register-an-application) an **App Registration** in Azure
